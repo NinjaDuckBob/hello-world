@@ -1,2 +1,3 @@
 # hello-world
-Practice
+
+Aspiring programmer. Loves to create. Hopes to gain experience from this.
